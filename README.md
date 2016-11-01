@@ -1,2 +1,2 @@
 # Hello-World
-Some ideal
+Getting started
